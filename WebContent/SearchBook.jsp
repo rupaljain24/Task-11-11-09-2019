@@ -33,6 +33,7 @@
 	<%} %>
 	
 	<hr>
-	<a href="index.jsp">Home</a>
+<a href="AddBooks.jsp">Add-Book</a>
+<a href="RemoveBook.jsp">Remove-Book</a>
 </body>
 </html>

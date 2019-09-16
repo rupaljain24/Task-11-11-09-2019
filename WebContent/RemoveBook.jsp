@@ -35,6 +35,8 @@
 	<%} %>
 	
 	<hr>
+<a href="RemoveBook.jsp">Add-New-Book</a>
+<a href="SearchBook.jsp">Search-Book</a>
 	
 </body>
 </html>

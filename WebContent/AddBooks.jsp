@@ -61,7 +61,7 @@
 	<%} %>
 	
 	<hr>
-
-
+<a href="RemoveBook.jsp">Remove-Book</a>
+<a href="SearchBook.jsp">Search-Book</a>
 </body>
 </html>
